@@ -2,7 +2,7 @@
 
 #### Projeto desenvolvido para treinar flexbox!
 
-Você pode acessar <a href="" target="_blank">clicando aqui</a> para conferir!
+Você pode acessar <a href="https://my-apeperia.netlify.app/" target="_blank">clicando aqui</a> para conferir!
 
 ![ApeperiaPrint](https://github.com/V-Carvalho/Apeperia/assets/34304319/04088c10-99d5-4423-a877-6e634e434c91)
 
