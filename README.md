@@ -1,10 +1,10 @@
 # Apeperia
 
-#### Projeto Desenvolvido para treinar flexbox
+#### Projeto desenvolvido para treinar flexbox!
 
 Você pode acessar <a href="" target="_blank">clicando aqui</a> para conferir!
 
-![Fruta FrutoPrint](https://github.com/V-Carvalho/Fruta-E-Fruto/assets/34304319/84fb7dc1-b4f8-460e-8733-911fa01a91d9)
+![ApeperiaPrint](https://github.com/V-Carvalho/Apeperia/assets/34304319/04088c10-99d5-4423-a877-6e634e434c91)
 
 ## ✔️ Tecnologias utilizadas
 
